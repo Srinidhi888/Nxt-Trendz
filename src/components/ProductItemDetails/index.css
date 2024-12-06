@@ -1,0 +1,70 @@
+/* Write your CSS here */
+.item-bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+}
+.item-ima {
+  height: 450px;
+  width: 350px;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.similar-grp {
+  display: flex;
+  flex-wrap: wrap;
+}
+.head-1 {
+  padding-left: 70px;
+}
+ul {
+  list-style-type: none;
+}
+.box-1 {
+  display: flex;
+
+  align-items: center;
+}
+.grp {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.bt-1 {
+  background-color: transparent;
+  height: 20px;
+  margin-right: 20px;
+  border-width: 0px;
+  width: 20px;
+}
+.bt-2 {
+  background-color: transparent;
+  height: 20px;
+  width: 20px;
+  margin-left: 20px;
+  border-width: 0px;
+}
+.star-ima {
+  height: 20px;
+}
+
+.add-btn {
+  background-color: #3b82f6;
+  border-width: 0px;
+  border-radius: 10px;
+  color: white;
+  height: 35px;
+  width: 150px;
+}
+.failure-bg {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.ima-failure {
+  height: 300px;
+  width: 400px;
+}

@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.similar-ima {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+}
+.box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.h-1 {
+  font-size: 20px;
+}
+.similar-item {
+  margin: 20px;
+  padding: 20px;
+}
+.spcl {
+  height: 25px;
+  width: 55px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #3b82f6;
+  color: white;
+  margin-right: 10px;
+}
